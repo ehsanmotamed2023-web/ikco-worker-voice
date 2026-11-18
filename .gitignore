@@ -1,0 +1,15 @@
+# خروجی‌های ساخت
+app/build/
+out/
+*.idsig
+app/keystore/
+tools/
+
+# سرور
+server/data/
+__pycache__/
+*.pyc
+
+# سیستم
+.DS_Store
+Thumbs.db
